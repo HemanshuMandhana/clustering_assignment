@@ -1,4 +1,3 @@
-# clustering_assignment
 # Clustering Performance Evaluation on Different Preprocessing Techniques
 
 This report analyzes the performance of three clustering algorithms (KMeans, Hierarchical, and Mean Shift) on a dataset using different preprocessing techniques. The evaluation metrics used include **Silhouette Score**, **Calinski-Harabasz Index**, and **Davies-Bouldin Index**. Each experiment was conducted for cluster sizes c = 3, 4, and 5.
@@ -42,8 +41,9 @@ This report analyzes the performance of three clustering algorithms (KMeans, Hie
 
 ## 📈 Visualization
 
-![Clustering Performance Charts - KMeans, Hierarchical, Mean Shift](1db6ba5a-a6cd-403d-ae99-6b4f6a1bef48.png)
-![Tabular Overview of Clustering Metrics](71e6ce8d-8a63-497e-82ec-4a466da97208.png)
+![Clustering Performance Charts - KMeans, Hierarchical, Mean Shift](![image](https://github.com/user-attachments/assets/148ca0f8-aa6b-4f04-8052-952af940fd84)![image](https://github.com/user-attachments/assets/fb8820fa-4eb7-4a6c-a362-f8bf189d6cc5)![image](https://github.com/user-attachments/assets/751f402d-7791-487b-978d-efa203ba72a2)
+
+)
 
 ---
 
