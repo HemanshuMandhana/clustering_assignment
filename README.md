@@ -41,9 +41,9 @@ This report analyzes the performance of three clustering algorithms (KMeans, Hie
 
 ## 📈 Visualization
 
-![Clustering Performance Charts - KMeans, Hierarchical, Mean Shift](![image](https://github.com/user-attachments/assets/148ca0f8-aa6b-4f04-8052-952af940fd84)![image](https://github.com/user-attachments/assets/fb8820fa-4eb7-4a6c-a362-f8bf189d6cc5)![image](https://github.com/user-attachments/assets/751f402d-7791-487b-978d-efa203ba72a2)
+Clustering Performance Charts - KMeans, Hierarchical, Mean Shift ![image](https://github.com/user-attachments/assets/148ca0f8-aa6b-4f04-8052-952af940fd84)![image](https://github.com/user-attachments/assets/fb8820fa-4eb7-4a6c-a362-f8bf189d6cc5)![image](https://github.com/user-attachments/assets/751f402d-7791-487b-978d-efa203ba72a2)
 
-)
+
 
 ---
 
